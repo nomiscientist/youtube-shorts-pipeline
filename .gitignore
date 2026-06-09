@@ -5,8 +5,6 @@ youtube_token.json
 *.key
 
 # Environment files
-.env
-.env.*
 
 # Generated pipeline output
 drafts/
@@ -27,3 +25,6 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+uv.lock
+config.bat
+node_modules
